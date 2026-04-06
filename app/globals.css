@@ -88,7 +88,7 @@ body {
     color: blue;
 }
 .profile-pic{
-  background-image: url("./asserts/profile_pic.jpg");
+  background-image: url("./asserts/profile-photo.jpg");
   background-repeat: no-repeat;
   height: 37vh;
   width: 30vh;
