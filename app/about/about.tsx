@@ -46,11 +46,12 @@ const About = () => {
               <h3 className="font-semibold text-2xl pb-4"><p className="border-b-3 border-blue-500">About Me</p></h3>
               <div>
                 <p className="text-current">
-                Accomplished Senior Software Engineer with extensive experience designing and optimizing scalable web applications using React, Angular, and JavaScript. Demonstrated success leading high-impact projects across six organizations — ChampionX, Ness Digital India, Oracle Financial Services, Impelsys, Alten Calsoft Labs, and Accenture — with a consistent record of delivering measurable results. 
-                Key achievements include reducing code review time by 21% through ESLint-enforced quality standards, improving navigation UX via React Router, and implementing CI/CD pipelines that cut release cycles by 39%.
-                 Proficient in state management using Redux Toolkit and Context API, enabling predictable data flow and seamless communication across complex component hierarchies. Leveraged GitHub Copilot to accelerate development workflows, boosting team productivity and reducing repetitive coding overhead. 
-                 Skilled in building reusable component libraries, optimizing applications for performance and scalability, and ensuring technical feasibility of UI/UX designs. 
-                 Core competencies include HTML5, CSS3, Bootstrap 5, JavaScript, ES6+, React.js, Next.js, Redux, Redux Toolkit, RTK Query, Context API, Node.js, Express.js, MongoDB, SQL, TypeScript, RESTful APIs, Git, Jenkins, and Agile methodologies.
+                Lead Front-End Developer with 10+ years of experience designing and delivering enterprise-grade web applications
+using React, TypeScript, and Redux Toolkit across banking, e-commerce, industrial, and defense domains. Proven
+record of leading cross-functional distributed teams, building reusable component libraries, and optimizing performance
+through modern micro-frontend architectures. Experienced working in async, remote, and cross-timezone environments.
+Key achievements include implementing CI/CD pipelines that reduced release cycles by 39% and enforcing ESLint
+quality standards that cut code review time by 21%.
                 </p>
                 <p className="text-current">
                 Followed best development methodology and coding standards to develop the services with high quality and good performance. 
